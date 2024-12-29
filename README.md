@@ -6,3 +6,6 @@ Download the [mod file](https://github.com/NopoTheGamer/BalatroControllerGlyphs/
 if you are using a ps5 controller its all set up
 
 if you are using a ps4 controller or switch controller you have to edit the file to comment and uncomment the relevent parts
+
+
+![image](https://github.com/user-attachments/assets/e094e14c-35ee-497c-abe7-d8b6bbaabd13)
